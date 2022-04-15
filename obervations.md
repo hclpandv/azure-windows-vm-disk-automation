@@ -18,4 +18,7 @@
 
 #### Initialize disk
 
+#### Format Disk
+
+![image](https://user-images.githubusercontent.com/13016162/163520654-1509f0f4-8b46-46f8-8df4-a1b43fa78fa6.png)
 
