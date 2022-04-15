@@ -1,4 +1,4 @@
-## This is how the Window VM disk looks like when we add one OD and one Data disk
+## This is how the Window VM disk looks like when we add one OS and one Data disk
 
 #### Azure Portal
 
