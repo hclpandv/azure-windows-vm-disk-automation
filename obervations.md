@@ -1,5 +1,7 @@
 ## This is how the Window VM disk looks like when we add one OD and one Data disk
 
+#### Azure Portal
+
 ![image](https://user-images.githubusercontent.com/13016162/163517809-6077df14-55bf-4820-b322-8b073f86f073.png)
 
 #### Inside OS
